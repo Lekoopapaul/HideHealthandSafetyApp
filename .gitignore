@@ -1,0 +1,6 @@
+/.vscode
+/HideHealthandSafetyApp.elf
+/HideHealthandSafetyApp.lst
+/HideHealthandSafetyApp.wps
+/build
+/deploy.sh
